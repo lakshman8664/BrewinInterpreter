@@ -1,6 +1,6 @@
 # CS 131 Fall 2023: Project Starter
 
-Welcome to the Brewin Interpreter series, a quarter-long project in CS131 with one goal: making an interpreter. This repository contains the source code for a series of interpreters. These interpreters incrementally support features of the Brewin programming language, a fictional language inspired by C++, Python, and EMACS Lisp.
+Welcome to the Brewin Interpreter series, a quarter-long project in CS131 with one goal: making an interpreter. This repository contains the source code for different iterations of this interpreter. Each version incrementally supports features of the Brewin programming language, a fictional language inspired by C++, Python, and EMACS Lisp.
 
 ## Projects Overview
 
