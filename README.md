@@ -43,4 +43,4 @@ This project demonstrates my ability to extend programming language features and
 
 This is an unlicensed repository; even though the source code is public, it is **not** governed by an open-source license.
 
-This code was primarily written by [Carey Nachenberg](http://careynachenberg.weebly.com/), with support from his TAs for the CS131 Fall 2023 Website. 
+The skeleton code was written by [Carey Nachenberg](http://careynachenberg.weebly.com/), with support from his TAs for the CS131 Fall 2023 Website. 
